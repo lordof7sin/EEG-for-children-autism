@@ -1,3 +1,4 @@
+'''Mermaid
 graph TD;
     A[Start] --> B[Investigación de tecnologías diseñadas para la captación de señales encefálicas];
     B --> C[Investigación de hardware y sensores relacionados];
